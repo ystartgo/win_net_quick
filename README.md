@@ -11,3 +11,4 @@ Due to interface changes in Windows 11, many traditional network configuration m
 ![image](https://github.com/user-attachments/assets/d746b18e-e6ba-4236-a7fc-7cddfd4b9260)
 ![image](https://github.com/user-attachments/assets/f30afd2e-3e82-4b01-9862-befb3c628139)
 ![image](https://github.com/user-attachments/assets/db92a395-5559-4d07-9f00-84b580ae1636)
+基於AI 產生程式代碼 Generate program code based on AI
