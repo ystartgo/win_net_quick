@@ -12,3 +12,8 @@ Due to interface changes in Windows 11, many traditional network configuration m
 ![image](https://github.com/user-attachments/assets/f30afd2e-3e82-4b01-9862-befb3c628139)
 ![image](https://github.com/user-attachments/assets/db92a395-5559-4d07-9f00-84b580ae1636)
 基於AI 產生程式代碼 Generate program code based on AI
+
+
+# 轉換成執行檔案exe
+# Convert to executable file exe
+Invoke-ps2exe -inputFile "web.ps1" -outputFile "web.exe" -noConsole -noError -noOutput
